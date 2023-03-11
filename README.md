@@ -1,1 +1,1 @@
-Am learning and doing the hard thing everyday
+I just updated my README file from the github.com
